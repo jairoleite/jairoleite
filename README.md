@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jairo Leite 👋
 
 - 🔭 Hoje trabalho com Java Backend (Spring) e Vuejs no Frontend
-- 🌱 Estudando React
+- 🌱 Estudando Programação Reativa e NuxtJS 
 
 <div>
   <a href="https://github.com/jairoleite">
